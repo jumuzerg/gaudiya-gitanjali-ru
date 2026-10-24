@@ -5,7 +5,7 @@
 - [Слава Шри Чайтанья Сарасват Матха](songs/shrimach-chaitanya-sarasvata-mathavara-udgita-kirtir.md)
 - [Лого Шри Чайтанья Сарасват Матха](songs/gayatri-muralishta-kirtana-dhanam.md)
 - [Вандана](songs/vande-ham-shri-guroh-shri-yuta-pada-kamalam.md)
-- [Шрила Бхакти Ранджан Мадхусудан Махарадж](songs/acharya-varyyam-gaura-dhama-nishtham.md)
+- [Шрила Бхакти Ранджан Мадхусуданa Махарадж](songs/acharya-varyam-gaura-dhama-nishtham.md)
 - [Шрила Бхакти Бимал Авадхут Махарадж](songs/vande-vaikuntha-vritti-stham.md)
 - [Шрила Бхакти Судхир Госвами Махарадж](songs/goswaminam-sudhirakhyam.md)
 - [Шрила Бхакти Нирмал Ачарья Махарадж](songs/pujya-sri-guru-varga-vandita.md)
@@ -101,7 +101,7 @@
 - [Джади Гаура на хо’то](songs/jadi-gaura-na-hoto-tobe-ki-hoito.md)
 - [Эмона Гауранга бине нахи ара](songs/emona-gauranga-bine-nahi-ara.md)
 - [Ке джаби ке джаби](songs/ke-jabi-ke-jabi-bhai-bhava-sindhu-para.md)
-- [Бимала хемаджини](songs/bimala-hemajini-tanu-anupama-re.md)
+- [Бимала хемаджини](songs/vimala-hemajin-tanu-anupama-re.md)
 - [Гауранга болите хабе](songs/gauranga-bolite-hobe-pulaka-shorira.md)
 - [Шри Шри Гаурасундарер Авирбхава Васаре](songs/aruna-basane-sonara-suraja.md)
 
@@ -197,6 +197,7 @@
 - [После парикрамы](songs/nagara-bhramiya-amara-gaura-elo-ghore.md)
 - [Шри Нагара-киртана (песнь 4)](songs/radha-krishna-bol-bol-bolo-re-sobai.md)
 - [Шри Нагара-киртана (песнь 8)](songs/hari-bole-modera-gaura-elo.md)
+- [Шри Годрума-Чандра-Бхаджана-Упадеша](songs/yadi-te-hari-pada-saroja-sudha.md)
 
 ### Произведения Шрилы Шридхара Махараджа
 
@@ -206,8 +207,6 @@
 - [Шримад Рупа-пада-раджах Прартхана Дашакам](songs/shrimach-chaitanyapadau-chara.md)
 - [Шриман Нитйананда Двадашакам](songs/yo-nanto-nanta-vaktrair-niravadhi.md)
 - [Саннйаса Шри Нимайа](songs/mishra-suta-vishvambhara-navadvipa-vasa.md)
-
-
 
 ### Произведения Шрилы Говинды Махараджа
 
